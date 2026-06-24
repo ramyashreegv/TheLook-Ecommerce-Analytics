@@ -75,7 +75,7 @@ Analysis Period:
 - CLV
 - Revenue Trends
 
-screenshots/Executive Overview.png
+screenshots/Executive_Overview.png
 
 ### Customer Analytics
 - Customer Segmentation
