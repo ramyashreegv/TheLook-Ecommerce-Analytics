@@ -75,7 +75,7 @@ Analysis Period:
 - CLV
 - Revenue Trends
 
-screenshots/Executive_Overview.png
+(screenshots/Executive_Overview.png)
 
 ### Customer Analytics
 - Customer Segmentation
@@ -83,15 +83,21 @@ screenshots/Executive_Overview.png
 - Revenue by Age Group
 - Customer Distribution
 
+(screenshots/Customer_Analytics.png)
+
 ### Product & Profitability Analytics
 - Category Profitability
 - Brand Performance
 - Revenue vs Profit Analysis
 
+(screenshots/Product_Analytics.png)
+
 ### Marketing Analytics
 - Channel Performance
 - Customer Acquisition Trends
 - Revenue Contribution by Traffic Source
+
+(screenshots/Marketing_Analytics.png)
 
 
 ## Key Insights
