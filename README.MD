@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Executive Overview](Images/Executive Overview.png)
+![Executive Overview](screenshots/Executive Overview.png)
 
 ## Project Overview
 
@@ -74,6 +74,8 @@ Analysis Period:
 - AOV
 - CLV
 - Revenue Trends
+
+screenshots/Executive Overview.png
 
 ### Customer Analytics
 - Customer Segmentation
